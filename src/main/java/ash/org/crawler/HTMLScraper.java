@@ -7,7 +7,6 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.net.URL;
 import java.util.HashSet;
-import java.util.Objects;
 import java.util.Set;
 
 import static java.util.stream.Collectors.toSet;
